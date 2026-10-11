@@ -1,0 +1,8 @@
+# Name,Type,SubType,Offset,Size
+nvs,data,nvs,0x9000,24K
+otadata,data,ota,0xf000,8K
+phy_init,data,phy,0x11000,4K
+factory,app,factory,0x20000,3M
+ota_0,app,ota_0,,3M
+ota_1,app,ota_1,   ,3M
+spiffs,data,spiffs,  ,4M
